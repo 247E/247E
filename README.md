@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @247E
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+247E/247E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm curently learning crawler
+I'm interested in python
+My email address is 447872831@qq.com
